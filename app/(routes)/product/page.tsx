@@ -1,4 +1,4 @@
-import Overview from "./atomic/pages/Overview"
+import Overview from '@/app/atomic/pages/Overview'
 
 import React from 'react'
 
